@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-time-anomaly-detection.git
+   git clone https://github.com/sagar-patidar-07/Anomaly_Detection-.git
    cd real-time-anomaly-detection
    ```
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 3. Run the script:
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
 ## Usage
